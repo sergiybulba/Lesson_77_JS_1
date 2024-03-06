@@ -1,0 +1,13 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+
+#butt_calc, #butt_clear, #butt_parse {
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 100px;
+    width: 150px;
+    font-size: larger;
+}
